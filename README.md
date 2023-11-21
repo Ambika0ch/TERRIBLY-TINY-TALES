@@ -46,7 +46,7 @@ This componnent is used to display a single post block and render its content an
 Clone the GitHub repository
 
 ```bash
-git clone https://github.com/aryanjha256/TerriblyTinyTalesAssignment.git](https://github.com/Ambika0ch/TERRIBLY-TINY-TALES.git
+git clone https://github.com/Ambika0ch/TERRIBLY-TINY-TALES.git
 ```
 
 ### Change the directory
