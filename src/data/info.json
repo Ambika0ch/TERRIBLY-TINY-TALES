@@ -1,0 +1,109 @@
+{
+  "user": {
+    "name": "Ambika",
+    "bio": "Its a assignment ",
+    "followers": 1201,
+    "following": 97,
+    "posts": [
+      {
+        "title": "Nature",
+        "postcontent": "What is the good of your stars and trees, your sunrise and the wind, if they do not enter into our daily lives?.",
+        "liked": true,
+        "date": "November12",
+        "readingtime": "5",
+        "views": "3246",
+        "category": "quotes"
+      },
+      {
+        "title": "Enviroment",
+        "postcontent": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.",
+        "liked": true,
+        "date": "November 5",
+        "readingtime": "2",
+        "views": "1109",
+        "category": "thoughts"
+      },
+      {
+        "title": "Funny ",
+        "postcontent": "Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either.",
+        "liked": true,
+        "date": "Septembr 8",
+        "readingtime": "4",
+        "views": "92",
+        "category": "Entertainment"
+      },
+      {
+        "title": "Dummy data",
+        "postcontent": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time",
+        "liked": true,
+        "date": "November 15",
+        "readingtime": "6",
+        "views": "189",
+        "category": "quotes"
+      },
+      {
+        "title": "Dummy data",
+        "postcontent": "Diving into the realms of futuristic fiction, exploring captivating narratives.",
+        "liked": true,
+        "date": "November  3",
+        "readingtime": "6",
+        "views": "1230",
+        "category": "thoughts"
+      },
+      {
+        "title": "Dummy data",
+        "postcontent": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.",
+        "liked": true,
+        "date": "November 21",
+        "readingtime": "7",
+        "views": "123",
+        "category": "quotes"
+      },
+      {
+        "title": "Dummy",
+        "postcontent": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time",
+        "liked": true,
+        "date": "September 14",
+        "readingtime": "1",
+        "views": "2348",
+        "category": "quotes"
+      },
+      {
+        "title": "Tech Dummy",
+        "postcontent": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time",
+        "liked": true,
+        "date": "April 7",
+        "readingtime": "8",
+        "views": "89",
+        "category": "quotes"
+      },
+      {
+        "title": "Dummy data",
+        "postcontent": "Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either",
+        "liked": true,
+        "date": "July 2",
+        "readingtime": "6",
+        "views": "987",
+        "category": "quotes"
+      },
+      {
+        "title": "Dummy data",
+        "postcontent": "Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either",
+        "liked": true,
+        "date": "june 17",
+        "readingtime": "12",
+        "views": "145",
+        "category": "thoughts"
+      },
+      {
+        "title": "Travel",
+        "postcontent": "Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either",
+        "liked": true,
+        "date": "October 7",
+        "readingtime": "1",
+        "views": "790",
+        "category": "quotes"
+      }
+    ]
+  }
+}
