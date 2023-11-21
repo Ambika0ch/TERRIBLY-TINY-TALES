@@ -65,6 +65,9 @@ npm install
 npm run dev
 ```
 
+Netlify 
+https://655c42df89eb8e39f946e4e3--lovely-bubblegum-c31d01.netlify.app/
+
 
 
 
