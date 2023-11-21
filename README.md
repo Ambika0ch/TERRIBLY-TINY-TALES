@@ -1,27 +1,31 @@
 
-# Terribly Tiny Tales - Front End Assignment Project
+# Terribly Tiny Tales 
 
 This is a front-end assignment project for Terribly Tiny Tales showcasing skills of React, CSS, and UI Designing.
 
-This project is built using React, Vite, and Tailwind CSS.
 
-## Packages Used
+## Packages 
 
 ### React
 
 React is a JavaScript library for building user interfaces. It allows us to design simple views for each state in our application.
 
-### Vite
+## Styling with Tailwind CSS
 
-Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It provides a development server with hot module replacement and a build command for production.
+This project uses [Tailwind CSS](https://tailwindcss.com/) for styling. Tailwind is a utility-first CSS framework that makes it easy to create modern and responsive designs.
 
-### Tailwind CSS
+### Installation
 
-Tailwind CSS is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in the markup.
+To install Tailwind CSS and its dependencies, run the following command in your project directory:
 
-### React Icons
+```bash
+npm install tailwindcss postcss autoprefixer
 
-React icons is icon library containing countless SVG Icons.
+## Vite
+
+Vite is a blazing-fast build tool that enhances the development experience for modern web projects. Install Vite globally, create a new project with `create-vite`, and start the development server with hot module replacement using `npm run dev`. Customize your project's configuration in `vite.config.js` and build for production with `npm run build`. For more details, refer to the [Vite Documentation](https://vitejs.dev/).
+
+
 
 ## Components
 
@@ -29,13 +33,9 @@ React icons is icon library containing countless SVG Icons.
 
 This component is used to navbar for the page.
 
-### Hero
+### Header
 
-This component is used to display the user image, name, basic details like bio, followers and following.
-
-### Postlist
-
-This component is used to diplay the list of all the posts and a total count of posts.
+This component is used to display the cover image, name, basic details like likes, followers and following.
 
 ### Post
 
@@ -52,7 +52,7 @@ git clone https://github.com/Ambika0ch/TERRIBLY-TINY-TALES.git
 ### Change the directory
 
 ```bash
-cd TerriblyTinyTalesAssignment
+cd TerriblyTinyTales
 ```
 
 ### Installing packages and running the project
