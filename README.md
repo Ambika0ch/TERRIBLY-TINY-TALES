@@ -4,7 +4,7 @@
 This is a front-end assignment project for Terribly Tiny Tales showcasing skills of React, CSS, and UI Designing.
 
 
-## Packages 
+## Packages  
 
 ### React
 
