@@ -1,3 +1,4 @@
+
 # Terribly Tiny Tales - Front End Assignment Project
 
 This is a front-end assignment project for Terribly Tiny Tales showcasing skills of React, CSS, and UI Designing.
@@ -42,7 +43,7 @@ This componnent is used to display a single post block and render its content an
 
 ## Installation
 
-### Clone the GitHub repository
+Clone the GitHub repository
 
 ```bash
 git clone https://github.com/aryanjha256/TerriblyTinyTalesAssignment.git
@@ -55,8 +56,7 @@ cd TerriblyTinyTalesAssignment
 ```
 
 ### Installing packages and running the project
-
-Make sure you have nodejs installed on your local system.
+You should have nodejs installed on your local system.
 
 ```bash
 npm install
@@ -65,8 +65,9 @@ npm install
 npm run dev
 ```
 
-### View the project locally on your web browser
+
 
 Go to `http://localhost:5173/` to view the project.
 
-#### Thank You!
+
+
